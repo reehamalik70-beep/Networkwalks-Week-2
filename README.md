@@ -35,3 +35,5 @@ Wrote a complete pentesting-style report covering methodology, tool-by-tool find
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/93f767b8597423ca196fbe3f8eb65ff4befab9aa/whois%20results.JPG
 
 
+https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/67a562493595eb0896b90f9e0b62d2b83145e208/whois%20results%202.JPG
+
