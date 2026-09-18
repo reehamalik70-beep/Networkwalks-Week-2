@@ -46,3 +46,5 @@ https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/e6458ef516a865ca1e
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/758034151b8907e237269d3120faad9eda96e8e6/curl%20-I%20outcome.JPG
 
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/74e51587e285505c3b9cd3a07930b2ce253f70eb/dnsrecon%20-d%20iutcome.JPG
+
+https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/2b401432d90aa3708cddea95c59a7d974f16c336/nslookup%20outcome.JPG
