@@ -56,3 +56,5 @@ https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/c4688f03788ff5d4ab
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/77174cdcbe24f9c446e114db00de133dfb1225c2/loacal%20IP%20address%20and%20LAN%20subnet.JPG
 
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/bce86b8c13f16798ba1f010f3cc3106f04e7eb14/How%20many%20hosts%20are%20live%2C%20IP%20addresses%20of%20them%20and%20MAC%20address.JPG
+
+https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/9f8816a5fc029a9f7f52cb47d3832886dd642d46/Topology%20with%20legend.JPG
