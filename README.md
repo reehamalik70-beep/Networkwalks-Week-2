@@ -43,6 +43,8 @@ https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/52916908f69ea23f9c
 
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/e6458ef516a865ca1e9a54bbaa2f166d27a05766/whatweb%20outcom.JPG
 
+https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/8dcb8c2d0ac567383cf1860e07a9c697bf628b14/which%20ports%20are%20open.JPG
+
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/758034151b8907e237269d3120faad9eda96e8e6/curl%20-I%20outcome.JPG
 
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/74e51587e285505c3b9cd3a07930b2ce253f70eb/dnsrecon%20-d%20iutcome.JPG
