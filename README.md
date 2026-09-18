@@ -60,3 +60,5 @@ https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/bce86b8c13f16798ba
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/9f8816a5fc029a9f7f52cb47d3832886dd642d46/Topology%20with%20legend.JPG
 
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/4a605e08855da47df9dd9769d7a3ead9af4be1ea/Pentesting%20Report%20part%201.JPG
+
+https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/01caeeb9fee280cd7d031b1b463d04b9815421ef/Pentesting%20Report%20Part%202.JPG
