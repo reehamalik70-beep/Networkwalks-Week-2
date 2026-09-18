@@ -50,3 +50,5 @@ https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/74e51587e285505c3b
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/2b401432d90aa3708cddea95c59a7d974f16c336/nslookup%20outcome.JPG
 
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/c4688f03788ff5d4ab5c67080c4dce3a91a2a389/wafw00f%20outcome.JPG
+
+https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/77174cdcbe24f9c446e114db00de133dfb1225c2/loacal%20IP%20address%20and%20LAN%20subnet.JPG
