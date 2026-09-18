@@ -39,3 +39,6 @@ https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/67a562493595eb0896
 
 https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/52916908f69ea23f9c75e589db4859d622c4520c/whois%20reults%203.JPG
 
+
+
+https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/e6458ef516a865ca1e9a54bbaa2f166d27a05766/whatweb%20outcom.JPG
