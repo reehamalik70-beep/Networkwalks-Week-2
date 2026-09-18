@@ -29,3 +29,9 @@ Wrote a complete pentesting-style report covering methodology, tool-by-tool find
 ---
 
 **Tools used:** `WHOIS` `WhatWeb` `Nslookup` `Curl` `Wafw00f` `DNSRecon` `Zenmap`
+
+
+
+https://github.com/reehamalik70-beep/Networkwalks-Week-2/blob/93f767b8597423ca196fbe3f8eb65ff4befab9aa/whois%20results.JPG
+
+
